@@ -10,4 +10,4 @@ This is where I showcase my projects, skills, and a bit about me.
 📬 Contact form
 
 🛠️ Built With
-HTML, CSS
+HTML, CSS, JavaScript
